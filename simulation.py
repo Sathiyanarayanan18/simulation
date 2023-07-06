@@ -187,7 +187,7 @@
 
 # # Close the connection
 # connection.close()
-
+# Ardupilot drone simulation 
 # import os
 
 # os.environ["MAVLINK20"] = "1"
